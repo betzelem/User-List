@@ -9,7 +9,7 @@ Made with create-react-app
 
 1.1 
 - Updated .css files to .modules.css
-- Portaled error modal to top of <body> in index.js
+- Portaled error modal to top of body in index.html
 - Replaced empty divs with fragments
 - Replaced useState listeners with refs to reduce code body
 
